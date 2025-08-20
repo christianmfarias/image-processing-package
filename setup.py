@@ -8,9 +8,9 @@ with open("requirements.txt") as f:
 
 setup(
     name="image_processing_package",
-    version="0.0.1",
-    author="Seu Nome",
-    author_email="seu_email@example.com",
+    version="0.0.2",
+    author="Christian Farias",
+    author_email="christian.farias@ctlbrasil.com.br",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
